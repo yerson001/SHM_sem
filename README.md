@@ -5,5 +5,5 @@ ambos usan un semaforos que bloquea al otro
 ~~~
 
 
-![Texto alternativo](/ruta/a/la/imagen.jpg)
-![Texto alternativo](/ruta/a/la/imagen.jpg)
+![Texto alternativo](https://github.com/yerson001/SHM_sem/blob/main/SHM/SHM1.png)
+![Texto alternativo](https://github.com/yerson001/SHM_sem/blob/main/SHM/SHM2.png)
