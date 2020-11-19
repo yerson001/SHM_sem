@@ -23,7 +23,7 @@ int main()
     for(;i<15;++i)
     {
         sem_p();
-        printf(" [B] ");
+        printf(" [A] ");
         fflush(stdout);
 
         int n = rand()%3; sleep(n);
